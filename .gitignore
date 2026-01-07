@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+*.key
+
+# Videos
+*.mp4
+*.mov
+*.avi
+
+# macOS
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# Output
+output/
+temp/
+
